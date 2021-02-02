@@ -5,5 +5,3 @@
 *GEO Accession Number: GSE76896*
 *Platform: Affymetrix Human Genome U133 Plus 2.0 Array*
 *Sample Details: pancreatic islet samples from organ donors and partially pancreatectomized patients*
-
-#### 
