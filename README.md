@@ -9,10 +9,13 @@ In this analysis a microarray gene expression dataset will be analysed, attempti
 This dataset is extracted from IMIDIA Biobank project (Improving beta-cell function and identification of diagnostic biomarkers For treatment monitoring in diabetes)which was launched on February, 2010[1].
 
 ### Important Informtaion:
-- :white_circle: **Source**: IMIDIA biobank data :link: [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76896]
-- :white_circle: **GEO Accession Number**: GSE76896
-- :white_circle: **Platform**: Affymetrix Human Genome U133 Plus 2.0 Array
-- :white_circle: **Sample Details**: pancreatic islet samples from organ donors and partially pancreatectomized patients
+:white_circle: **Source**: IMIDIA biobank data :link: [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76896]
+
+:white_circle: **GEO Accession Number**: GSE76896
+
+:white_circle: **Platform**: Affymetrix Human Genome U133 Plus 2.0 Array
+
+:white_circle: **Sample Details**: pancreatic islet samples from organ donors and partially pancreatectomized patients
 
 The dataset "GSE76896.ALL.csv" contains the prepared data which contain the gene id, gene expression data, disease status (T2D vs ND, where T2D is Type 2 Diabetes and ND is Non-Diabetic), sample number (GSM0000000) and cohort type (rgan donors vs partially pancreatectomized patients).
 
