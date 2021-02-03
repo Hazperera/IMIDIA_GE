@@ -14,14 +14,12 @@ This dataset is extracted from IMIDIA Biobank project (Improving beta-cell funct
 - **Platform**: Affymetrix Human Genome U133 Plus 2.0 Array
 - **Sample Details**: pancreatic islet samples from organ donors and partially pancreatectomized patients
 
-The dataset "GSE76896.ALL.csv" contains the prepared data which contain the gene id, gene expression data, disease status, sample number and cohort type.
-
-
+The dataset "GSE76896.ALL.csv" contains the prepared data which contain the gene id, gene expression data, disease status (T2D vs ND, where T2D is Type 2 Diabetes and ND is Non-Diabetic), sample number (GSM0000000) and cohort type (rgan donors vs partially pancreatectomized patients).
 
 ### References:
 
 [1] GmbH, A. (2021). IMIDIA - European compined excellence in diabetes research. Retrieved 3 February 2021, from https://www.imidia.org/
 
-[2] Solimena, Michele et al. “Systems biology of the IMIDIA biobank from organ donors and pancreatectomised patients defines a novel transcriptomic signature of islets from individuals with type 2 diabetes.” Diabetologia vol. 61,3 (2018): 641-657. doi:10.1007/s00125-017-4500-3
+[2] Solimena, Michele et al. “Systems biology of the IMIDIA biobank from organ donors and pancreatectomised patients defines a novel transcriptomic signature of islets from individuals with type 2 diabetes.” Diabetologia vol. 61,3 (2018): 641-657. https://doi:10.1007/s00125-017-4500-3
 
 [3] Khamis, A., Canouil, M., Siddiq, A., Crouch, H., Falchi, M., Bulow, M. V., Ehehalt, F., Marselli, L., Distler, M., Richter, D., Weitz, J., Bokvist, K., Xenarios, I., Thorens, B., Schulte, A. M., Ibberson, M., Bonnefond, A., Marchetti, P., Solimena, M., & Froguel, P. (2019). Laser capture microdissection of human pancreatic islets reveals novel eQTLs associated with type 2 diabetes. Molecular metabolism, 24, 98–107. https://doi.org/10.1016/j.molmet.2019.03.004
