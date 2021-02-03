@@ -9,7 +9,7 @@ In this analysis a microarray gene expression dataset will be analysed, attempti
 This dataset is extracted from IMIDIA Biobank project (Improving beta-cell function and identification of diagnostic biomarkers For treatment monitoring in diabetes)which was launched on February, 2010[1].
 
 ### Important Informtaion:
-- **Source**: IMIDIA biobank data :link: [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76896]
+:white_circle: **Source**: IMIDIA biobank data :link: [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76896]
 - **GEO Accession Number**: GSE76896
 - **Platform**: Affymetrix Human Genome U133 Plus 2.0 Array
 - **Sample Details**: pancreatic islet samples from organ donors and partially pancreatectomized patients
